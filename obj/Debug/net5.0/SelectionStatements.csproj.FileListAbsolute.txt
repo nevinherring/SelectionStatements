@@ -1,0 +1,15 @@
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/bin/Debug/net5.0/SelectionStatements.deps.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/bin/Debug/net5.0/SelectionStatements.runtimeconfig.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/bin/Debug/net5.0/SelectionStatements.runtimeconfig.dev.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/bin/Debug/net5.0/SelectionStatements.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/bin/Debug/net5.0/ref/SelectionStatements.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/bin/Debug/net5.0/SelectionStatements.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/obj/Debug/net5.0/SelectionStatements.csprojAssemblyReference.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/obj/Debug/net5.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/obj/Debug/net5.0/SelectionStatements.AssemblyInfoInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/obj/Debug/net5.0/SelectionStatements.AssemblyInfo.cs
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/obj/Debug/net5.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/obj/Debug/net5.0/SelectionStatements.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/obj/Debug/net5.0/ref/SelectionStatements.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/obj/Debug/net5.0/SelectionStatements.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/SelectionStatements/obj/Debug/net5.0/SelectionStatements.genruntimeconfig.cache
