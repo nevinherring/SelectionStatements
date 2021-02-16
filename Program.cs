@@ -1,5 +1,6 @@
 ﻿using System;
 using static System.Console;
+using System.IO;
 
 namespace SelectionStatements
 {
@@ -49,6 +50,48 @@ namespace SelectionStatements
                     WriteLine("Default");
                     break;
             } // end of switch statement
+            // string path = "/Users/markjprice/Code/Chapter03";
+            string path = @"C:\CODE\Chapter03";
+            ConsoleKeyInfo key = ReadKey();
+            WriteLine();
+            Stream s = null;
+            if (key.Key == ConsoleKey.R)
+            {
+                s = File.Open(
+                    Path.Combine(path, "file.txt"),
+                    FileMode.OpenOrCreate,
+                    FileAccess.Read
+                );
+
+            }
+            else
+            {
+                s = File.Open(
+                    Path.Combine(path, "file.txt"),
+                    FileMode.OpenOrCreate,
+                    FileAccess.Write
+                );
+            }
+            string message = string.Empty;
+            switch (s)
+            {
+                case FileStream writeableFile when s.CanWrite:
+                    message = "The Stream is a file that I can write to.";
+                    break;
+                case FileStream readOnlyFile:
+                    message = "The stream is a read-only file.";
+                    break;
+                case MemoryStream memoryStream:
+                    message = "The stream is a memory address.";
+                    break;
+                default: // always evaluated late despite its current position
+                    message = "The stream is some other type.";
+                    break;
+                case null:
+                    message = "The stream is null.";
+                    break;
+            }
+            WriteLine(message);
         }
     }
 }
